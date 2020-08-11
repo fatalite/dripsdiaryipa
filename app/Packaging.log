@@ -1,0 +1,1185 @@
+2020-08-11 13:22:34 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fb0bc7b0ba0; archive(resolved)='<IDEArchive: 0x7fb0c89d66c0>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodDevelopmentSigned: 0x7fb0c991c3c0>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fb0caa25730; teamID='HF6K9XFF34', teamName='Fei Ye (Individual)', teamType='Individual', username='septfoil@hotmail.com', isFreeProvisioningTeam='0'>'>
+	Chain (13, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fb0bc7b0ba0; archive = '<IDEArchive: 0x7fb0c89d66c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb0c991c3c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fb0caa25730; teamID='HF6K9XFF34', teamName='Fei Ye (Individual)', teamType='Individual', username='septfoil@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fb072f09fd0; archive = '<IDEArchive: 0x7fb0c89d66c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb0c991c3c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fb0caa25730; teamID='HF6K9XFF34', teamName='Fei Ye (Individual)', teamType='Individual', username='septfoil@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fb08330b6d0; archive = '<IDEArchive: 0x7fb0c89d66c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb0c991c3c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fb0caa25730; teamID='HF6K9XFF34', teamName='Fei Ye (Individual)', teamType='Individual', username='septfoil@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fb083304430; archive = '<IDEArchive: 0x7fb0c89d66c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb0c991c3c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fb0caa25730; teamID='HF6K9XFF34', teamName='Fei Ye (Individual)', teamType='Individual', username='septfoil@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fb0c9ecee90; archive = '<IDEArchive: 0x7fb0c89d66c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb0c991c3c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fb0caa25730; teamID='HF6K9XFF34', teamName='Fei Ye (Individual)', teamType='Individual', username='septfoil@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fb0825610f0; archive = '<IDEArchive: 0x7fb0c89d66c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb0c991c3c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fb0caa25730; teamID='HF6K9XFF34', teamName='Fei Ye (Individual)', teamType='Individual', username='septfoil@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fb0bc6cf6b0; archive = '<IDEArchive: 0x7fb0c89d66c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb0c991c3c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fb0caa25730; teamID='HF6K9XFF34', teamName='Fei Ye (Individual)', teamType='Individual', username='septfoil@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fb0c877e770; archive = '<IDEArchive: 0x7fb0c89d66c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb0c991c3c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fb0caa25730; teamID='HF6K9XFF34', teamName='Fei Ye (Individual)', teamType='Individual', username='septfoil@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fb072f0c070; archive = '<IDEArchive: 0x7fb0c89d66c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb0c991c3c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fb0caa25730; teamID='HF6K9XFF34', teamName='Fei Ye (Individual)', teamType='Individual', username='septfoil@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fb0833c70a0; archive = '<IDEArchive: 0x7fb0c89d66c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb0c991c3c0>', team='(null)'>
+	<IDEDistributionContext: 0x7fb08337a730; archive = '<IDEArchive: 0x7fb0c89d66c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb0c991c3c0>', team='(null)'>
+	<IDEDistributionContext: 0x7fb0bc6cccd0; archive = '<IDEArchive: 0x7fb0c89d66c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb0c991c3c0>', team='(null)'>
+	<IDEDistributionContext: 0x7fb0bc658c90; archive = '<IDEArchive: 0x7fb0c89d66c0>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fb0bc7b0ba0>
+2020-08-11 13:22:34 +0000  Processing step: IDEDistributionCreateDestRootStep
+2020-08-11 13:22:34 +0000  Processing step: IDEDistributionCopyItemStep
+2020-08-11 13:22:34 +0000  Running /usr/bin/ditto '-V' '/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app'
+2020-08-11 13:22:34 +0000  >>> Copying /Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app 
+2020-08-11 13:22:34 +0000  copying file ./RobotoSlab-Medium.ttf ... 
+2020-08-11 13:22:34 +0000  173364 bytes for ./RobotoSlab-Medium.ttf
+2020-08-11 13:22:34 +0000  copying file ./_CodeSignature/CodeResources ... 
+2020-08-11 13:22:34 +0000  42201 bytes for ./_CodeSignature/CodeResources
+2020-08-11 13:22:34 +0000  copying file ./OverviewDetailWeekExpandView.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  7124 bytes for ./OverviewDetailWeekExpandView.nib/objects-13.0+.nib
+2020-08-11 13:22:34 +0000  copying file ./OverviewDetailWeekExpandView.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  7894 bytes for ./OverviewDetailWeekExpandView.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./TimelineEmptyCell.nib ... 
+2020-08-11 13:22:34 +0000  3662 bytes for ./TimelineEmptyCell.nib
+2020-08-11 13:22:34 +0000  copying file ./zh-Hans.lproj/LaunchScreen.strings ... 
+2020-08-11 13:22:34 +0000  1 bytes for ./zh-Hans.lproj/LaunchScreen.strings
+2020-08-11 13:22:34 +0000  copying file ./zh-Hans.lproj/Main.strings ... 
+2020-08-11 13:22:34 +0000  250 bytes for ./zh-Hans.lproj/Main.strings
+copying file ./zh-Hans.lproj/Localizable.strings ... 
+2020-08-11 13:22:34 +0000  10431 bytes for ./zh-Hans.lproj/Localizable.strings
+copying file ./zh-Hans.lproj/InfoPlist.strings ... 
+2020-08-11 13:22:34 +0000  127 bytes for ./zh-Hans.lproj/InfoPlist.strings
+2020-08-11 13:22:34 +0000  copying file ./PTMono-Bold.ttf ... 
+2020-08-11 13:22:34 +0000  76828 bytes for ./PTMono-Bold.ttf
+2020-08-11 13:22:34 +0000  copying file ./RecordPreviewViewController.nib ... 
+2020-08-11 13:22:34 +0000  3148 bytes for ./RecordPreviewViewController.nib
+2020-08-11 13:22:34 +0000  copying file ./en.lproj/Localizable.strings ... 
+2020-08-11 13:22:34 +0000  2078 bytes for ./en.lproj/Localizable.strings
+2020-08-11 13:22:34 +0000  copying file ./en.lproj/InfoPlist.strings ... 
+2020-08-11 13:22:34 +0000  135 bytes for ./en.lproj/InfoPlist.strings
+2020-08-11 13:22:34 +0000  copying file ./en.lproj/MerchantKitResourcesLocalizedPeriodUnits.stringsdict ... 
+2020-08-11 13:22:34 +0000  466 bytes for ./en.lproj/MerchantKitResourcesLocalizedPeriodUnits.stringsdict
+2020-08-11 13:22:34 +0000  copying file ./en.lproj/MerchantKitResourcesLocalizedSubscriptionPricePhrases.stringsdict ... 
+2020-08-11 13:22:34 +0000  1519 bytes for ./en.lproj/MerchantKitResourcesLocalizedSubscriptionPricePhrases.stringsdict
+2020-08-11 13:22:34 +0000  copying file ./RecordTypeCollectionViewCell.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  3518 bytes for ./RecordTypeCollectionViewCell.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./RecordTypeCollectionViewCell.nib/objects-12.3+.nib ... 
+2020-08-11 13:22:34 +0000  3721 bytes for ./RecordTypeCollectionViewCell.nib/objects-12.3+.nib
+2020-08-11 13:22:34 +0000  copying file ./Montserrat-Medium.ttf ... 
+2020-08-11 13:22:34 +0000  260236 bytes for ./Montserrat-Medium.ttf
+2020-08-11 13:22:34 +0000  copying file ./SettingsOpenSourceListViewController.nib ... 
+2020-08-11 13:22:34 +0000  2755 bytes for ./SettingsOpenSourceListViewController.nib
+2020-08-11 13:22:34 +0000  copying file ./RobotoSlab-SemiBold.ttf ... 
+2020-08-11 13:22:34 +0000  173532 bytes for ./RobotoSlab-SemiBold.ttf
+2020-08-11 13:22:34 +0000  copying file ./NoteFormView.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  4940 bytes for ./NoteFormView.nib/objects-13.0+.nib
+2020-08-11 13:22:34 +0000  copying file ./NoteFormView.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  4930 bytes for ./NoteFormView.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./OverviewDetailYearlyView.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  9359 bytes for ./OverviewDetailYearlyView.nib/objects-13.0+.nib
+2020-08-11 13:22:34 +0000  copying file ./OverviewDetailYearlyView.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  10423 bytes for ./OverviewDetailYearlyView.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./OverviewController.nib ... 
+2020-08-11 13:22:34 +0000  2997 bytes for ./OverviewController.nib
+2020-08-11 13:22:34 +0000  copying file ./DateFormView.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  3980 bytes for ./DateFormView.nib/objects-13.0+.nib
+2020-08-11 13:22:34 +0000  copying file ./DateFormView.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  4590 bytes for ./DateFormView.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./DurationFormView.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  4410 bytes for ./DurationFormView.nib/objects-13.0+.nib
+2020-08-11 13:22:34 +0000  copying file ./DurationFormView.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  4842 bytes for ./DurationFormView.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./Moment ... 
+2020-08-11 13:22:34 +0000  22987168 bytes for ./Moment
+2020-08-11 13:22:34 +0000  copying file ./Diary002.momd/VersionInfo.plist ... 
+2020-08-11 13:22:34 +0000  144 bytes for ./Diary002.momd/VersionInfo.plist
+2020-08-11 13:22:34 +0000  copying file ./Diary002.momd/Diary002.mom ... 
+2020-08-11 13:22:34 +0000  1791 bytes for ./Diary002.momd/Diary002.mom
+2020-08-11 13:22:34 +0000  copying file ./CollectionFormView.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  4130 bytes for ./CollectionFormView.nib/objects-13.0+.nib
+2020-08-11 13:22:34 +0000  copying file ./CollectionFormView.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  4292 bytes for ./CollectionFormView.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./PTMono-Regular.ttf ... 
+2020-08-11 13:22:34 +0000  169036 bytes for ./PTMono-Regular.ttf
+copying file ./DripsOpenScorceContentView.nib ... 
+2020-08-11 13:22:34 +0000  3932 bytes for ./DripsOpenScorceContentView.nib
+2020-08-11 13:22:34 +0000  copying file ./TitleFormView.nib ... 
+2020-08-11 13:22:34 +0000  3280 bytes for ./TitleFormView.nib
+copying file ./AppIcon60x60@2x.png ... 
+2020-08-11 13:22:34 +0000  5904 bytes for ./AppIcon60x60@2x.png
+copying file ./RPWeekDataView.nib ... 
+2020-08-11 13:22:34 +0000  4091 bytes for ./RPWeekDataView.nib
+copying file ./TimelineTodayHeaderView.nib ... 
+2020-08-11 13:22:34 +0000  3302 bytes for ./TimelineTodayHeaderView.nib
+2020-08-11 13:22:34 +0000  copying file ./Montserrat-Light.ttf ... 
+2020-08-11 13:22:34 +0000  259416 bytes for ./Montserrat-Light.ttf
+copying file ./OverviewDetailMonthRankView.nib ... 
+2020-08-11 13:22:34 +0000  3996 bytes for ./OverviewDetailMonthRankView.nib
+copying file ./RPTitleView.nib ... 
+2020-08-11 13:22:34 +0000  3239 bytes for ./RPTitleView.nib
+2020-08-11 13:22:34 +0000  copying file ./SettingsOpenSourceViewController.nib ... 
+2020-08-11 13:22:34 +0000  2385 bytes for ./SettingsOpenSourceViewController.nib
+copying file ./SettingsSelectionView.nib ... 
+2020-08-11 13:22:34 +0000  4750 bytes for ./SettingsSelectionView.nib
+copying file ./RPNoteView.nib ... 
+2020-08-11 13:22:34 +0000  3460 bytes for ./RPNoteView.nib
+2020-08-11 13:22:34 +0000  copying file ./UpgradeFeaturesView.nib ... 
+2020-08-11 13:22:34 +0000  4433 bytes for ./UpgradeFeaturesView.nib
+2020-08-11 13:22:34 +0000  copying file ./Rubik-Light.ttf ... 
+2020-08-11 13:22:34 +0000  136816 bytes for ./Rubik-Light.ttf
+2020-08-11 13:22:34 +0000  copying file ./SettingsSimpleView.nib ... 
+2020-08-11 13:22:34 +0000  5136 bytes for ./SettingsSimpleView.nib
+2020-08-11 13:22:34 +0000  copying file ./OverviewDetailWeekView.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  7172 bytes for ./OverviewDetailWeekView.nib/objects-13.0+.nib
+2020-08-11 13:22:34 +0000  copying file ./OverviewDetailWeekView.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  7960 bytes for ./OverviewDetailWeekView.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./LoadingViewController.nib ... 
+2020-08-11 13:22:34 +0000  3698 bytes for ./LoadingViewController.nib
+2020-08-11 13:22:34 +0000  copying file ./SettingsFooterView.nib ... 
+2020-08-11 13:22:34 +0000  3023 bytes for ./SettingsFooterView.nib
+2020-08-11 13:22:34 +0000  copying file ./Rubik-Medium.ttf ... 
+2020-08-11 13:22:34 +0000  143696 bytes for ./Rubik-Medium.ttf
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/CommonSelectViewController.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  1071 bytes for ./Base.lproj/Main.storyboardc/CommonSelectViewController.nib/objects-13.0+.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/CommonSelectViewController.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  1071 bytes for ./Base.lproj/Main.storyboardc/CommonSelectViewController.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/4tI-m4-KFa-view-nhH-8b-8bE.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  3323 bytes for ./Base.lproj/Main.storyboardc/4tI-m4-KFa-view-nhH-8b-8bE.nib/objects-13.0+.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/4tI-m4-KFa-view-nhH-8b-8bE.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  3320 bytes for ./Base.lproj/Main.storyboardc/4tI-m4-KFa-view-nhH-8b-8bE.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/Dsa-MC-9cT-view-2ta-hB-vlk.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  4518 bytes for ./Base.lproj/Main.storyboardc/Dsa-MC-9cT-view-2ta-hB-vlk.nib/objects-13.0+.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/Dsa-MC-9cT-view-2ta-hB-vlk.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  4525 bytes for ./Base.lproj/Main.storyboardc/Dsa-MC-9cT-view-2ta-hB-vlk.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/b5t-ot-dfq-view-dgf-fn-vha.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  3383 bytes for ./Base.lproj/Main.storyboardc/b5t-ot-dfq-view-dgf-fn-vha.nib/objects-13.0+.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/b5t-ot-dfq-view-dgf-fn-vha.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  3382 bytes for ./Base.lproj/Main.storyboardc/b5t-ot-dfq-view-dgf-fn-vha.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/0w7-Zc-hvc-view-4GO-IH-2zF.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  3064 bytes for ./Base.lproj/Main.storyboardc/0w7-Zc-hvc-view-4GO-IH-2zF.nib/objects-13.0+.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/0w7-Zc-hvc-view-4GO-IH-2zF.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  3065 bytes for ./Base.lproj/Main.storyboardc/0w7-Zc-hvc-view-4GO-IH-2zF.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/SelectRecordCategoryViewController.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  1393 bytes for ./Base.lproj/Main.storyboardc/SelectRecordCategoryViewController.nib/objects-13.0+.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/SelectRecordCategoryViewController.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  1393 bytes for ./Base.lproj/Main.storyboardc/SelectRecordCategoryViewController.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/oOK-KI-gFj-view-V8a-JH-OTa.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  3283 bytes for ./Base.lproj/Main.storyboardc/oOK-KI-gFj-view-V8a-JH-OTa.nib/objects-13.0+.nib
+copying file ./Base.lproj/Main.storyboardc/oOK-KI-gFj-view-V8a-JH-OTa.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  3277 bytes for ./Base.lproj/Main.storyboardc/oOK-KI-gFj-view-V8a-JH-OTa.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/SelectDurationViewController.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  1075 bytes for ./Base.lproj/Main.storyboardc/SelectDurationViewController.nib/objects-13.0+.nib
+copying file ./Base.lproj/Main.storyboardc/SelectDurationViewController.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  1075 bytes for ./Base.lproj/Main.storyboardc/SelectDurationViewController.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/SelectDateViewController.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  1067 bytes for ./Base.lproj/Main.storyboardc/SelectDateViewController.nib/objects-13.0+.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/SelectDateViewController.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  1067 bytes for ./Base.lproj/Main.storyboardc/SelectDateViewController.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/UITabBarController-Tog-KO-Txz.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  1764 bytes for ./Base.lproj/Main.storyboardc/UITabBarController-Tog-KO-Txz.nib/objects-13.0+.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/UITabBarController-Tog-KO-Txz.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  1764 bytes for ./Base.lproj/Main.storyboardc/UITabBarController-Tog-KO-Txz.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/RecordDetailViewController.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  1435 bytes for ./Base.lproj/Main.storyboardc/RecordDetailViewController.nib/objects-13.0+.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/RecordDetailViewController.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  1435 bytes for ./Base.lproj/Main.storyboardc/RecordDetailViewController.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/RecordNavigationController.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  2055 bytes for ./Base.lproj/Main.storyboardc/RecordNavigationController.nib/objects-13.0+.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/RecordNavigationController.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  2055 bytes for ./Base.lproj/Main.storyboardc/RecordNavigationController.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2020-08-11 13:22:34 +0000  673 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  2720 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  3151 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2020-08-11 13:22:34 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2020-08-11 13:22:34 +0000  copying file ./RobotoSlab-Bold.ttf ... 
+2020-08-11 13:22:34 +0000  173396 bytes for ./RobotoSlab-Bold.ttf
+2020-08-11 13:22:34 +0000  copying file ./SettingsProCell.nib ... 
+2020-08-11 13:22:34 +0000  4264 bytes for ./SettingsProCell.nib
+2020-08-11 13:22:34 +0000  copying file ./OverviewHeaderView.nib ... 
+2020-08-11 13:22:34 +0000  4573 bytes for ./OverviewHeaderView.nib
+2020-08-11 13:22:34 +0000  copying file ./OverviewDetailTitleView.nib ... 
+2020-08-11 13:22:34 +0000  2711 bytes for ./OverviewDetailTitleView.nib
+2020-08-11 13:22:34 +0000  copying file ./RecordTimelineTableViewCell.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  5629 bytes for ./RecordTimelineTableViewCell.nib/objects-13.0+.nib
+2020-08-11 13:22:34 +0000  copying file ./RecordTimelineTableViewCell.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  6065 bytes for ./RecordTimelineTableViewCell.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./SettingsNotificationViewController.nib ... 
+2020-08-11 13:22:34 +0000  2753 bytes for ./SettingsNotificationViewController.nib
+2020-08-11 13:22:34 +0000  copying file ./UpgradeNormalPriceView.nib ... 
+2020-08-11 13:22:34 +0000  5098 bytes for ./UpgradeNormalPriceView.nib
+2020-08-11 13:22:34 +0000  copying file ./TimelineHeaderView.nib ... 
+2020-08-11 13:22:34 +0000  3450 bytes for ./TimelineHeaderView.nib
+2020-08-11 13:22:34 +0000  copying file ./Assets.car ... 
+2020-08-11 13:22:34 +0000  7950248 bytes for ./Assets.car
+copying file ./UpgradeViewController.nib ... 
+2020-08-11 13:22:34 +0000  9264 bytes for ./UpgradeViewController.nib
+copying file ./SelectRecordFooterView.nib ... 
+2020-08-11 13:22:34 +0000  2491 bytes for ./SelectRecordFooterView.nib
+2020-08-11 13:22:34 +0000  copying file ./Montserrat-SemiBold.ttf ... 
+2020-08-11 13:22:34 +0000  260936 bytes for ./Montserrat-SemiBold.ttf
+2020-08-11 13:22:34 +0000  copying file ./PermissionConfiguration.xcconfig ... 
+2020-08-11 13:22:34 +0000  2470 bytes for ./PermissionConfiguration.xcconfig
+2020-08-11 13:22:34 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2020-08-11 13:22:34 +0000  7817 bytes for ./AppIcon76x76@2x~ipad.png
+2020-08-11 13:22:34 +0000  copying file ./SettingsHeaderView.nib ... 
+2020-08-11 13:22:34 +0000  2701 bytes for ./SettingsHeaderView.nib
+2020-08-11 13:22:34 +0000  copying file ./RobotoSlab-Light.ttf ... 
+2020-08-11 13:22:34 +0000  173080 bytes for ./RobotoSlab-Light.ttf
+2020-08-11 13:22:34 +0000  copying file ./RPDataIconView.nib ... 
+2020-08-11 13:22:34 +0000  4700 bytes for ./RPDataIconView.nib
+2020-08-11 13:22:34 +0000  copying file ./SettingsSectionInfoFooterView.nib ... 
+2020-08-11 13:22:34 +0000  2875 bytes for ./SettingsSectionInfoFooterView.nib
+2020-08-11 13:22:34 +0000  copying file ./CurrencyFormView.nib ... 
+2020-08-11 13:22:34 +0000  3819 bytes for ./CurrencyFormView.nib
+2020-08-11 13:22:34 +0000  copying file ./SettingsTimelineStyleViewController.nib ... 
+2020-08-11 13:22:34 +0000  2758 bytes for ./SettingsTimelineStyleViewController.nib
+2020-08-11 13:22:34 +0000  copying file ./RecordCategoryCell.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:34 +0000  4909 bytes for ./RecordCategoryCell.nib/objects-13.0+.nib
+copying file ./RecordCategoryCell.nib/runtime.nib ... 
+2020-08-11 13:22:34 +0000  5323 bytes for ./RecordCategoryCell.nib/runtime.nib
+2020-08-11 13:22:34 +0000  copying file ./RecordCategoryCell.nib/objects-12.3+.nib ... 
+2020-08-11 13:22:34 +0000  5532 bytes for ./RecordCategoryCell.nib/objects-12.3+.nib
+2020-08-11 13:22:34 +0000  copying file ./SettingsWeekStartViewController.nib ... 
+2020-08-11 13:22:34 +0000  2795 bytes for ./SettingsWeekStartViewController.nib
+2020-08-11 13:22:34 +0000  copying file ./Welcome.storyboardc/hja-Qn-e0k-view-BnS-cJ-WhI.nib ... 
+2020-08-11 13:22:34 +0000  4584 bytes for ./Welcome.storyboardc/hja-Qn-e0k-view-BnS-cJ-WhI.nib
+2020-08-11 13:22:34 +0000  copying file ./Welcome.storyboardc/hxn-c2-Fx9-view-bg2-Vb-UJr.nib ... 
+2020-08-11 13:22:34 +0000  9058 bytes for ./Welcome.storyboardc/hxn-c2-Fx9-view-bg2-Vb-UJr.nib
+2020-08-11 13:22:34 +0000  copying file ./Welcome.storyboardc/WelcomeTableViewController.nib ... 
+2020-08-11 13:22:34 +0000  1046 bytes for ./Welcome.storyboardc/WelcomeTableViewController.nib
+2020-08-11 13:22:34 +0000  copying file ./Welcome.storyboardc/WelcomeViewController.nib ... 
+2020-08-11 13:22:34 +0000  1319 bytes for ./Welcome.storyboardc/WelcomeViewController.nib
+2020-08-11 13:22:34 +0000  copying file ./Welcome.storyboardc/Info.plist ... 
+2020-08-11 13:22:34 +0000  229 bytes for ./Welcome.storyboardc/Info.plist
+2020-08-11 13:22:34 +0000  copying file ./SettingsToggleView.nib ... 
+2020-08-11 13:22:34 +0000  4567 bytes for ./SettingsToggleView.nib
+2020-08-11 13:22:34 +0000  copying file ./SettingsCloudSyncViewController.nib ... 
+2020-08-11 13:22:34 +0000  2757 bytes for ./SettingsCloudSyncViewController.nib
+2020-08-11 13:22:34 +0000  copying file ./Montserrat-Regular.ttf ... 
+2020-08-11 13:22:34 +0000  263192 bytes for ./Montserrat-Regular.ttf
+2020-08-11 13:22:34 +0000  copying file ./TimelineViewController.nib ... 
+2020-08-11 13:22:34 +0000  7090 bytes for ./TimelineViewController.nib
+2020-08-11 13:22:34 +0000  copying file ./OverviewDetailController.nib ... 
+2020-08-11 13:22:34 +0000  3086 bytes for ./OverviewDetailController.nib
+2020-08-11 13:22:34 +0000  copying file ./RPDateView.nib ... 
+2020-08-11 13:22:34 +0000  3672 bytes for ./RPDateView.nib
+2020-08-11 13:22:34 +0000  copying file ./RPActionView.nib ... 
+2020-08-11 13:22:34 +0000  4197 bytes for ./RPActionView.nib
+2020-08-11 13:22:34 +0000  copying file ./SettingsUpgradeCell.nib ... 
+2020-08-11 13:22:34 +0000  5048 bytes for ./SettingsUpgradeCell.nib
+2020-08-11 13:22:34 +0000  copying file ./Frameworks/libswiftCoreImage.dylib ... 
+2020-08-11 13:22:34 +0000  466576 bytes for ./Frameworks/libswiftCoreImage.dylib
+2020-08-11 13:22:34 +0000  copying file ./Frameworks/libswiftObjectiveC.dylib ... 
+2020-08-11 13:22:34 +0000  679696 bytes for ./Frameworks/libswiftObjectiveC.dylib
+2020-08-11 13:22:34 +0000  copying file ./Frameworks/libswiftCore.dylib ... 
+2020-08-11 13:22:34 +0000  95497584 bytes for ./Frameworks/libswiftCore.dylib
+copying file ./Frameworks/libswiftCoreGraphics.dylib ... 
+2020-08-11 13:22:34 +0000  2041040 bytes for ./Frameworks/libswiftCoreGraphics.dylib
+copying file ./Frameworks/libswiftUIKit.dylib ... 
+2020-08-11 13:22:34 +0000  1608816 bytes for ./Frameworks/libswiftUIKit.dylib
+2020-08-11 13:22:34 +0000  copying file ./Frameworks/libswiftMetal.dylib ... 
+2020-08-11 13:22:34 +0000  724432 bytes for ./Frameworks/libswiftMetal.dylib
+2020-08-11 13:22:34 +0000  copying file ./Frameworks/libswiftCoreData.dylib ... 
+2020-08-11 13:22:34 +0000  994912 bytes for ./Frameworks/libswiftCoreData.dylib
+2020-08-11 13:22:34 +0000  copying file ./Frameworks/libswiftDispatch.dylib ... 
+2020-08-11 13:22:34 +0000  4056912 bytes for ./Frameworks/libswiftDispatch.dylib
+2020-08-11 13:22:34 +0000  copying file ./Frameworks/libswiftos.dylib ... 
+2020-08-11 13:22:34 +0000  857184 bytes for ./Frameworks/libswiftos.dylib
+2020-08-11 13:22:34 +0000  copying file ./Frameworks/libswiftCoreFoundation.dylib ... 
+2020-08-11 13:22:34 +0000  450400 bytes for ./Frameworks/libswiftCoreFoundation.dylib
+copying file ./Frameworks/libswiftCloudKit.dylib ... 
+2020-08-11 13:22:35 +0000  2134944 bytes for ./Frameworks/libswiftCloudKit.dylib
+2020-08-11 13:22:35 +0000  copying file ./Frameworks/libswiftDarwin.dylib ... 
+2020-08-11 13:22:35 +0000  1091440 bytes for ./Frameworks/libswiftDarwin.dylib
+2020-08-11 13:22:35 +0000  copying file ./Frameworks/libswiftContacts.dylib ... 
+2020-08-11 13:22:35 +0000  660704 bytes for ./Frameworks/libswiftContacts.dylib
+2020-08-11 13:22:35 +0000  copying file ./Frameworks/libswiftQuartzCore.dylib ... 
+2020-08-11 13:22:35 +0000  486352 bytes for ./Frameworks/libswiftQuartzCore.dylib
+copying file ./Frameworks/libswiftFoundation.dylib ... 
+2020-08-11 13:22:35 +0000  43094320 bytes for ./Frameworks/libswiftFoundation.dylib
+copying file ./Frameworks/libswiftCoreLocation.dylib ... 
+2020-08-11 13:22:35 +0000  730224 bytes for ./Frameworks/libswiftCoreLocation.dylib
+2020-08-11 13:22:35 +0000  copying file ./OverviewWeekCell.nib ... 
+5277 bytes for ./OverviewWeekCell.nib
+copying file ./Rubik-Regular.ttf ... 
+2020-08-11 13:22:35 +0000  140732 bytes for ./Rubik-Regular.ttf
+2020-08-11 13:22:35 +0000  copying file ./embedded.mobileprovision ... 
+2020-08-11 13:22:35 +0000  10465 bytes for ./embedded.mobileprovision
+copying file ./UpgradeHighlightPriceView.nib ... 
+2020-08-11 13:22:35 +0000  6870 bytes for ./UpgradeHighlightPriceView.nib
+2020-08-11 13:22:35 +0000  copying file ./BiometryLockViewController.nib ... 
+2020-08-11 13:22:35 +0000  4253 bytes for ./BiometryLockViewController.nib
+2020-08-11 13:22:35 +0000  copying file ./SettingsSectionHeaderView.nib ... 
+2020-08-11 13:22:35 +0000  2872 bytes for ./SettingsSectionHeaderView.nib
+2020-08-11 13:22:35 +0000  copying file ./SettingsViewController.nib ... 
+2020-08-11 13:22:35 +0000  2821 bytes for ./SettingsViewController.nib
+2020-08-11 13:22:35 +0000  copying file ./Info.plist ... 
+2020-08-11 13:22:35 +0000  2311 bytes for ./Info.plist
+2020-08-11 13:22:35 +0000  copying file ./WaterFormView.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:35 +0000  4407 bytes for ./WaterFormView.nib/objects-13.0+.nib
+2020-08-11 13:22:35 +0000  copying file ./WaterFormView.nib/runtime.nib ... 
+2020-08-11 13:22:35 +0000  4844 bytes for ./WaterFormView.nib/runtime.nib
+2020-08-11 13:22:35 +0000  copying file ./OverviewDetailMonthView.nib ... 
+2020-08-11 13:22:35 +0000  6867 bytes for ./OverviewDetailMonthView.nib
+2020-08-11 13:22:35 +0000  copying file ./OverviewMonthCell.nib ... 
+2020-08-11 13:22:35 +0000  5290 bytes for ./OverviewMonthCell.nib
+2020-08-11 13:22:35 +0000  copying file ./SettingsIDLockViewController.nib ... 
+2020-08-11 13:22:35 +0000  2820 bytes for ./SettingsIDLockViewController.nib
+2020-08-11 13:22:35 +0000  copying file ./PkgInfo ... 
+2020-08-11 13:22:35 +0000  8 bytes for ./PkgInfo
+2020-08-11 13:22:35 +0000  copying file ./RobotoSlab-Regular.ttf ... 
+2020-08-11 13:22:35 +0000  172684 bytes for ./RobotoSlab-Regular.ttf
+copying file ./WelcomeFeatureCell.nib ... 
+2020-08-11 13:22:35 +0000  5644 bytes for ./WelcomeFeatureCell.nib
+2020-08-11 13:22:35 +0000  /usr/bin/ditto exited with 0
+2020-08-11 13:22:35 +0000  Processing step: IDEDistributionEmbedProfileStep
+2020-08-11 13:22:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fb0c9d760f0; bundleID='com.apple.dt.runtime.swiftCloudKit', path='<DVTFilePath:0x7fb0c871a070:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCloudKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0c9d78cc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0825b33b0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCloudKit', executablePath='<DVTFilePath:0x7fb0c871a070:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCloudKit.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fb0833f2fa0; bundleID='com.apple.dt.runtime.swiftContacts', path='<DVTFilePath:0x7fb0cd639330:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftContacts.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0c9d91380; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0c8cb1f50; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftContacts', executablePath='<DVTFilePath:0x7fb0cd639330:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftContacts.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fb0833e5ad0; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fb0bd985950:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0833e30b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0825b33b0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fb0bd985950:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fb08337ee30; bundleID='com.apple.dt.runtime.swiftCoreData', path='<DVTFilePath:0x7fb0c8e65ed0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreData.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825e1850; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0825b33b0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCoreData', executablePath='<DVTFilePath:0x7fb0c8e65ed0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreData.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fb0c9d70980; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fb0c8719f70:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0b8d97290; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0825b33b0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fb0c8719f70:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fb0825ddbf0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fb0c8af6370:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825de260; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb072f07b50; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fb0c8af6370:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fb0b8cd0480; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fb0bd987f90:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825ddf90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0825b33b0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fb0bd987f90:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fb082b0abd0; bundleID='com.apple.dt.runtime.swiftCoreLocation', path='<DVTFilePath:0x7fb0bd9893c0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreLocation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825d6b10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb072f07b50; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCoreLocation', executablePath='<DVTFilePath:0x7fb0bd9893c0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreLocation.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fb0bc6fc4d0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fb0b27db3d0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0833823b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0bc6fc700; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fb0b27db3d0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fb0825d2c20; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fb0c8ee20e0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0bd9f3d40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb072f07b50; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fb0c8ee20e0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fb0833f68d0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fb0cd650460:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825d3370; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0c8cb1f50; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fb0cd650460:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fb0b8d90f20; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fb0c8a60320:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0b8d94790; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0825b33b0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fb0c8a60320:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fb082582ed0; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fb0bd9885b0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb08339c560; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0825b33b0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fb0bd9885b0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fb08256fd00; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fb0cd64fc80:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb08256ff00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb072f07b50; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fb0cd64fc80:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fb0825e55f0; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fb0c8af2600:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825de760; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb072f07b50; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fb0c8af2600:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fb0825dd850; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fb0c8776170:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0833f73b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb072f07b50; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fb0c8776170:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Processing step: IDEDistributionInfoPlistStep
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-08-11 13:22:35 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2020-08-11 13:22:35 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2020-08-11 13:22:35 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2020-08-11 13:22:35 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-08-11 13:22:35 +0000  Processing step: IDEDistributionSymbolsStep
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-08-11 13:22:35 +0000  Processing step: IDEDistributionAppThinningStep
+2020-08-11 13:22:35 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2020-08-11 13:22:35 +0000  Processing step: IDEDistributionArchThinningStep
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCloudKit.dylib' '-verify_arch' 'arm64e'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCloudKit.dylib' '-remove' 'arm64e' '-output' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCloudKit.dylib'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Successfully thinned item "libswiftCloudKit.dylib", arch "arm64e"
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftContacts.dylib' '-verify_arch' 'arm64e'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftContacts.dylib' '-remove' 'arm64e' '-output' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftContacts.dylib'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Successfully thinned item "libswiftContacts.dylib", arch "arm64e"
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCore.dylib' '-verify_arch' 'arm64e'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCore.dylib'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Successfully thinned item "libswiftCore.dylib", arch "arm64e"
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreData.dylib' '-verify_arch' 'arm64e'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreData.dylib' '-remove' 'arm64e' '-output' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreData.dylib'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Successfully thinned item "libswiftCoreData.dylib", arch "arm64e"
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreFoundation.dylib' '-verify_arch' 'arm64e'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreFoundation.dylib'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Successfully thinned item "libswiftCoreFoundation.dylib", arch "arm64e"
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreGraphics.dylib' '-verify_arch' 'arm64e'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreGraphics.dylib' '-remove' 'arm64e' '-output' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreGraphics.dylib'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Successfully thinned item "libswiftCoreGraphics.dylib", arch "arm64e"
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreImage.dylib' '-verify_arch' 'arm64e'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreImage.dylib' '-remove' 'arm64e' '-output' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreImage.dylib'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Successfully thinned item "libswiftCoreImage.dylib", arch "arm64e"
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreLocation.dylib' '-verify_arch' 'arm64e'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreLocation.dylib' '-remove' 'arm64e' '-output' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreLocation.dylib'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Successfully thinned item "libswiftCoreLocation.dylib", arch "arm64e"
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftDarwin.dylib' '-verify_arch' 'arm64e'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftDarwin.dylib' '-remove' 'arm64e' '-output' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftDarwin.dylib'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Successfully thinned item "libswiftDarwin.dylib", arch "arm64e"
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftDispatch.dylib' '-verify_arch' 'arm64e'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftDispatch.dylib' '-remove' 'arm64e' '-output' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftDispatch.dylib'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Successfully thinned item "libswiftDispatch.dylib", arch "arm64e"
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftFoundation.dylib' '-verify_arch' 'arm64e'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftFoundation.dylib'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Successfully thinned item "libswiftFoundation.dylib", arch "arm64e"
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftMetal.dylib' '-verify_arch' 'arm64e'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftMetal.dylib' '-remove' 'arm64e' '-output' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftMetal.dylib'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Successfully thinned item "libswiftMetal.dylib", arch "arm64e"
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftObjectiveC.dylib' '-verify_arch' 'arm64e'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftObjectiveC.dylib' '-remove' 'arm64e' '-output' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftObjectiveC.dylib'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Successfully thinned item "libswiftObjectiveC.dylib", arch "arm64e"
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftQuartzCore.dylib' '-verify_arch' 'arm64e'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftQuartzCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftQuartzCore.dylib'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Successfully thinned item "libswiftQuartzCore.dylib", arch "arm64e"
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftUIKit.dylib' '-verify_arch' 'arm64e'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftUIKit.dylib' '-remove' 'arm64e' '-output' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftUIKit.dylib'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Successfully thinned item "libswiftUIKit.dylib", arch "arm64e"
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftos.dylib' '-verify_arch' 'arm64e'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftos.dylib' '-remove' 'arm64e' '-output' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftos.dylib'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-08-11 13:22:35 +0000  Successfully thinned item "libswiftos.dylib", arch "arm64e"
+2020-08-11 13:22:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Moment' '-verify_arch' 'arm64e'
+2020-08-11 13:22:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-08-11 13:22:35 +0000  Skipping architecture thinning for item "Moment" because arch "arm64e" wasn't found
+2020-08-11 13:22:35 +0000  Processing step: IDEDistributionODRStep
+2020-08-11 13:22:35 +0000  Processing step: IDEDistributionStripXattrsStep
+2020-08-11 13:22:35 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fb0c9d760f0; bundleID='com.apple.dt.runtime.swiftCloudKit', path='<DVTFilePath:0x7fb0c871a070:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCloudKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0c9d78cc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb072f0b6d0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCloudKit', executablePath='<DVTFilePath:0x7fb0c871a070:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCloudKit.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fb0833f2fa0; bundleID='com.apple.dt.runtime.swiftContacts', path='<DVTFilePath:0x7fb0cd639330:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftContacts.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0c9d91380; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0bc7a5d50; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftContacts', executablePath='<DVTFilePath:0x7fb0cd639330:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftContacts.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fb0833e5ad0; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fb0bd985950:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0833e30b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0c87bbe00; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fb0bd985950:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fb08337ee30; bundleID='com.apple.dt.runtime.swiftCoreData', path='<DVTFilePath:0x7fb0c8e65ed0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreData.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825e1850; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb08257a6c0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCoreData', executablePath='<DVTFilePath:0x7fb0c8e65ed0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreData.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fb0c9d70980; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fb0c8719f70:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0b8d97290; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0bd9f35f0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fb0c8719f70:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fb0825ddbf0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fb0c8af6370:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825de260; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb072f07b50; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fb0c8af6370:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fb0b8cd0480; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fb0bd987f90:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825ddf90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb072f07b50; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fb0bd987f90:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fb082b0abd0; bundleID='com.apple.dt.runtime.swiftCoreLocation', path='<DVTFilePath:0x7fb0bd9893c0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreLocation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825d6b10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0bd9f35f0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCoreLocation', executablePath='<DVTFilePath:0x7fb0bd9893c0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreLocation.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fb0bc6fc4d0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fb0b27db3d0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0833823b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0c9eb3af0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fb0b27db3d0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fb0825d2c20; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fb0c8ee20e0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0bd9f3d40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0b8c068d0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fb0c8ee20e0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fb0833f68d0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fb0cd650460:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825d3370; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb083343020; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fb0cd650460:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fb0b8d90f20; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fb0c8a60320:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0b8d94790; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0c9eb75f0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fb0c8a60320:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fb082582ed0; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fb0bd9885b0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb08339c560; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0bc74c4b0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fb0bd9885b0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fb08256fd00; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fb0cd64fc80:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb08256ff00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0c9eb3af0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fb0cd64fc80:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fb0825e55f0; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fb0c8af2600:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825de760; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0bc712ec0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fb0c8af2600:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fb0825dd850; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fb0c8776170:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0833f73b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0bd9f35f0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fb0c8776170:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>
+2020-08-11 13:22:35 +0000  Running /usr/bin/xattr '-crs' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app'
+2020-08-11 13:22:36 +0000  /usr/bin/xattr exited with 0
+2020-08-11 13:22:36 +0000  Processing step: IDEDistributionCodesignStep
+2020-08-11 13:22:36 +0000  Entitlements for <IDEDistributionItem: 0x7fb0c9d760f0; bundleID='com.apple.dt.runtime.swiftCloudKit', path='<DVTFilePath:0x7fb0c871a070:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCloudKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0c9d78cc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0c9eb75f0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCloudKit', executablePath='<DVTFilePath:0x7fb0c871a070:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCloudKit.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-08-11 13:22:36 +0000  Writing entitlements for <IDEDistributionItem: 0x7fb0c9d760f0; bundleID='com.apple.dt.runtime.swiftCloudKit', path='<DVTFilePath:0x7fb0c871a070:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCloudKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0c9d78cc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0c9d55160; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCloudKit', executablePath='<DVTFilePath:0x7fb0c871a070:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCloudKit.dylib'>', hardenedRuntime='0'>'> to: /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~JJHS93
+2020-08-11 13:22:36 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '032EC9BAAF2220A778626C3C45D9094D74E28F49' '--entitlements' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~JJHS93' '--preserve-metadata=identifier,flags,runtime' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCloudKit.dylib'
+2020-08-11 13:22:36 +0000  /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCloudKit.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCloudKit]
+2020-08-11 13:22:36 +0000  /usr/bin/codesign exited with 0
+2020-08-11 13:22:36 +0000  Entitlements for <IDEDistributionItem: 0x7fb0833f2fa0; bundleID='com.apple.dt.runtime.swiftContacts', path='<DVTFilePath:0x7fb0cd639330:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftContacts.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0c9d91380; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0825bd520; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftContacts', executablePath='<DVTFilePath:0x7fb0cd639330:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftContacts.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-08-11 13:22:36 +0000  Writing entitlements for <IDEDistributionItem: 0x7fb0833f2fa0; bundleID='com.apple.dt.runtime.swiftContacts', path='<DVTFilePath:0x7fb0cd639330:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftContacts.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0c9d91380; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0825bac40; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftContacts', executablePath='<DVTFilePath:0x7fb0cd639330:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftContacts.dylib'>', hardenedRuntime='0'>'> to: /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~HgbCpk
+2020-08-11 13:22:36 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '032EC9BAAF2220A778626C3C45D9094D74E28F49' '--entitlements' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~HgbCpk' '--preserve-metadata=identifier,flags,runtime' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftContacts.dylib'
+2020-08-11 13:22:36 +0000  /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftContacts.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftContacts]
+2020-08-11 13:22:36 +0000  /usr/bin/codesign exited with 0
+2020-08-11 13:22:36 +0000  Entitlements for <IDEDistributionItem: 0x7fb0833e5ad0; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fb0bd985950:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0833e30b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0c9eb75f0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fb0bd985950:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-08-11 13:22:36 +0000  Writing entitlements for <IDEDistributionItem: 0x7fb0833e5ad0; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fb0bd985950:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0833e30b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0c9d55160; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fb0bd985950:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'> to: /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~HdfNpW
+2020-08-11 13:22:36 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '032EC9BAAF2220A778626C3C45D9094D74E28F49' '--entitlements' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~HdfNpW' '--preserve-metadata=identifier,flags,runtime' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCore.dylib'
+2020-08-11 13:22:36 +0000  /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCore]
+2020-08-11 13:22:36 +0000  /usr/bin/codesign exited with 0
+2020-08-11 13:22:36 +0000  Entitlements for <IDEDistributionItem: 0x7fb08337ee30; bundleID='com.apple.dt.runtime.swiftCoreData', path='<DVTFilePath:0x7fb0c8e65ed0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreData.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825e1850; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb08257d870; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCoreData', executablePath='<DVTFilePath:0x7fb0c8e65ed0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreData.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-08-11 13:22:36 +0000  Writing entitlements for <IDEDistributionItem: 0x7fb08337ee30; bundleID='com.apple.dt.runtime.swiftCoreData', path='<DVTFilePath:0x7fb0c8e65ed0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreData.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825e1850; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0825b4570; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCoreData', executablePath='<DVTFilePath:0x7fb0c8e65ed0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreData.dylib'>', hardenedRuntime='0'>'> to: /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~XR5kc2
+2020-08-11 13:22:36 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '032EC9BAAF2220A778626C3C45D9094D74E28F49' '--entitlements' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~XR5kc2' '--preserve-metadata=identifier,flags,runtime' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreData.dylib'
+2020-08-11 13:22:36 +0000  /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreData.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreData]
+2020-08-11 13:22:36 +0000  /usr/bin/codesign exited with 0
+2020-08-11 13:22:36 +0000  Entitlements for <IDEDistributionItem: 0x7fb0c9d70980; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fb0c8719f70:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0b8d97290; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb08257dbb0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fb0c8719f70:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-08-11 13:22:36 +0000  Writing entitlements for <IDEDistributionItem: 0x7fb0c9d70980; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fb0c8719f70:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0b8d97290; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb08256fbc0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fb0c8719f70:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~og0peM
+2020-08-11 13:22:36 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '032EC9BAAF2220A778626C3C45D9094D74E28F49' '--entitlements' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~og0peM' '--preserve-metadata=identifier,flags,runtime' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreFoundation.dylib'
+2020-08-11 13:22:37 +0000  /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreFoundation]
+2020-08-11 13:22:37 +0000  /usr/bin/codesign exited with 0
+2020-08-11 13:22:37 +0000  Entitlements for <IDEDistributionItem: 0x7fb0825ddbf0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fb0c8af6370:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825de260; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0c9eb75f0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fb0c8af6370:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-08-11 13:22:37 +0000  Writing entitlements for <IDEDistributionItem: 0x7fb0825ddbf0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fb0c8af6370:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825de260; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0bd95e300; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fb0c8af6370:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'> to: /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~UWexU0
+2020-08-11 13:22:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '032EC9BAAF2220A778626C3C45D9094D74E28F49' '--entitlements' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~UWexU0' '--preserve-metadata=identifier,flags,runtime' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreGraphics.dylib'
+2020-08-11 13:22:37 +0000  /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreGraphics]
+2020-08-11 13:22:37 +0000  /usr/bin/codesign exited with 0
+2020-08-11 13:22:37 +0000  Entitlements for <IDEDistributionItem: 0x7fb0b8cd0480; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fb0bd987f90:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825ddf90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0825bafa0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fb0bd987f90:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-08-11 13:22:37 +0000  Writing entitlements for <IDEDistributionItem: 0x7fb0b8cd0480; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fb0bd987f90:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825ddf90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0825b3c50; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fb0bd987f90:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'> to: /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~UcA23A
+2020-08-11 13:22:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '032EC9BAAF2220A778626C3C45D9094D74E28F49' '--entitlements' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~UcA23A' '--preserve-metadata=identifier,flags,runtime' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreImage.dylib'
+2020-08-11 13:22:37 +0000  /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreImage.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreImage]
+2020-08-11 13:22:37 +0000  /usr/bin/codesign exited with 0
+2020-08-11 13:22:37 +0000  Entitlements for <IDEDistributionItem: 0x7fb082b0abd0; bundleID='com.apple.dt.runtime.swiftCoreLocation', path='<DVTFilePath:0x7fb0bd9893c0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreLocation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825d6b10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0b8d318a0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCoreLocation', executablePath='<DVTFilePath:0x7fb0bd9893c0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreLocation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-08-11 13:22:37 +0000  Writing entitlements for <IDEDistributionItem: 0x7fb082b0abd0; bundleID='com.apple.dt.runtime.swiftCoreLocation', path='<DVTFilePath:0x7fb0bd9893c0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreLocation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825d6b10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0825bac80; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftCoreLocation', executablePath='<DVTFilePath:0x7fb0bd9893c0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftCoreLocation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~vW3jKu
+2020-08-11 13:22:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '032EC9BAAF2220A778626C3C45D9094D74E28F49' '--entitlements' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~vW3jKu' '--preserve-metadata=identifier,flags,runtime' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreLocation.dylib'
+2020-08-11 13:22:37 +0000  /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftCoreLocation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreLocation]
+2020-08-11 13:22:37 +0000  /usr/bin/codesign exited with 0
+2020-08-11 13:22:37 +0000  Entitlements for <IDEDistributionItem: 0x7fb0bc6fc4d0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fb0b27db3d0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0833823b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0b8c068d0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fb0b27db3d0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-08-11 13:22:37 +0000  Writing entitlements for <IDEDistributionItem: 0x7fb0bc6fc4d0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fb0b27db3d0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0833823b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0825c1e00; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fb0b27db3d0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'> to: /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~StxKV5
+2020-08-11 13:22:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '032EC9BAAF2220A778626C3C45D9094D74E28F49' '--entitlements' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~StxKV5' '--preserve-metadata=identifier,flags,runtime' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftDarwin.dylib'
+2020-08-11 13:22:37 +0000  /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftDarwin.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDarwin]
+2020-08-11 13:22:37 +0000  /usr/bin/codesign exited with 0
+2020-08-11 13:22:37 +0000  Entitlements for <IDEDistributionItem: 0x7fb0825d2c20; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fb0c8ee20e0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0bd9f3d40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0c87bbe00; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fb0c8ee20e0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-08-11 13:22:37 +0000  Writing entitlements for <IDEDistributionItem: 0x7fb0825d2c20; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fb0c8ee20e0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0bd9f3d40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb082fee050; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fb0c8ee20e0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'> to: /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~wfbJXm
+2020-08-11 13:22:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '032EC9BAAF2220A778626C3C45D9094D74E28F49' '--entitlements' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~wfbJXm' '--preserve-metadata=identifier,flags,runtime' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftDispatch.dylib'
+2020-08-11 13:22:37 +0000  /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftDispatch.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDispatch]
+2020-08-11 13:22:37 +0000  /usr/bin/codesign exited with 0
+2020-08-11 13:22:37 +0000  Entitlements for <IDEDistributionItem: 0x7fb0833f68d0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fb0cd650460:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825d3370; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0b8c068d0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fb0cd650460:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-08-11 13:22:37 +0000  Writing entitlements for <IDEDistributionItem: 0x7fb0833f68d0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fb0cd650460:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825d3370; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0825c1e00; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fb0cd650460:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~c2sj2e
+2020-08-11 13:22:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '032EC9BAAF2220A778626C3C45D9094D74E28F49' '--entitlements' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~c2sj2e' '--preserve-metadata=identifier,flags,runtime' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftFoundation.dylib'
+2020-08-11 13:22:37 +0000  /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftFoundation]
+2020-08-11 13:22:37 +0000  /usr/bin/codesign exited with 0
+2020-08-11 13:22:37 +0000  Entitlements for <IDEDistributionItem: 0x7fb0b8d90f20; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fb0c8a60320:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0b8d94790; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0825b4900; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fb0c8a60320:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-08-11 13:22:38 +0000  Writing entitlements for <IDEDistributionItem: 0x7fb0b8d90f20; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fb0c8a60320:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0b8d94790; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0825b41e0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fb0c8a60320:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'> to: /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~HgtGMn
+2020-08-11 13:22:38 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '032EC9BAAF2220A778626C3C45D9094D74E28F49' '--entitlements' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~HgtGMn' '--preserve-metadata=identifier,flags,runtime' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftMetal.dylib'
+2020-08-11 13:22:38 +0000  /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftMetal.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftMetal]
+2020-08-11 13:22:38 +0000  /usr/bin/codesign exited with 0
+2020-08-11 13:22:38 +0000  Entitlements for <IDEDistributionItem: 0x7fb082582ed0; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fb0bd9885b0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb08339c560; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0825b46c0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fb0bd9885b0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-08-11 13:22:38 +0000  Writing entitlements for <IDEDistributionItem: 0x7fb082582ed0; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fb0bd9885b0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb08339c560; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0825b4410; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fb0bd9885b0:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'> to: /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~4cUJdP
+2020-08-11 13:22:38 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '032EC9BAAF2220A778626C3C45D9094D74E28F49' '--entitlements' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~4cUJdP' '--preserve-metadata=identifier,flags,runtime' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftObjectiveC.dylib'
+2020-08-11 13:22:38 +0000  /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftObjectiveC.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftObjectiveC]
+2020-08-11 13:22:38 +0000  /usr/bin/codesign exited with 0
+2020-08-11 13:22:38 +0000  Entitlements for <IDEDistributionItem: 0x7fb08256fd00; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fb0cd64fc80:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb08256ff00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0c9eb75f0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fb0cd64fc80:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-08-11 13:22:38 +0000  Writing entitlements for <IDEDistributionItem: 0x7fb08256fd00; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fb0cd64fc80:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb08256ff00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0bc6c19f0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fb0cd64fc80:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'> to: /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~Wdnhwz
+2020-08-11 13:22:38 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '032EC9BAAF2220A778626C3C45D9094D74E28F49' '--entitlements' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~Wdnhwz' '--preserve-metadata=identifier,flags,runtime' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftQuartzCore.dylib'
+2020-08-11 13:22:38 +0000  /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftQuartzCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftQuartzCore]
+2020-08-11 13:22:38 +0000  /usr/bin/codesign exited with 0
+2020-08-11 13:22:38 +0000  Entitlements for <IDEDistributionItem: 0x7fb0825e55f0; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fb0c8af2600:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825de760; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb082564d00; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fb0c8af2600:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-08-11 13:22:38 +0000  Writing entitlements for <IDEDistributionItem: 0x7fb0825e55f0; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fb0c8af2600:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825de760; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb08257ed60; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fb0c8af2600:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'> to: /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~gUDQgD
+2020-08-11 13:22:38 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '032EC9BAAF2220A778626C3C45D9094D74E28F49' '--entitlements' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~gUDQgD' '--preserve-metadata=identifier,flags,runtime' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftUIKit.dylib'
+2020-08-11 13:22:38 +0000  /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftUIKit.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftUIKit]
+2020-08-11 13:22:38 +0000  /usr/bin/codesign exited with 0
+2020-08-11 13:22:38 +0000  Entitlements for <IDEDistributionItem: 0x7fb0825dd850; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fb0c8776170:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0833f73b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0c9eb75f0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fb0c8776170:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-08-11 13:22:38 +0000  Writing entitlements for <IDEDistributionItem: 0x7fb0825dd850; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fb0c8776170:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0833f73b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0825b4c90; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='(null)', teamID='HF6K9XFF34', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fb0c8776170:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'> to: /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~rLKyLb
+2020-08-11 13:22:38 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '032EC9BAAF2220A778626C3C45D9094D74E28F49' '--entitlements' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~rLKyLb' '--preserve-metadata=identifier,flags,runtime' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftos.dylib'
+2020-08-11 13:22:38 +0000  /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app/Frameworks/libswiftos.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftos]
+2020-08-11 13:22:38 +0000  /usr/bin/codesign exited with 0
+2020-08-11 13:22:38 +0000  Entitlements for <IDEDistributionItem: 0x7fb0825ade00; bundleID='com.dripsdiary.app', path='<DVTFilePath:0x7fb0cf169130:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825ab860; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb0825c0130; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='{
+    "application-identifier" = "HF6K9XFF34.com.dripsdiary.app";
+    "aps-environment" = development;
+    "com.apple.developer.default-data-protection" = NSFileProtectionComplete;
+    "com.apple.developer.icloud-container-identifiers" =     (
+        "iCloud.com.dripsdiary.app"
+    );
+    "com.apple.developer.icloud-services" =     (
+        CloudKit
+    );
+    "com.apple.developer.team-identifier" = HF6K9XFF34;
+    "com.apple.developer.ubiquity-kvstore-identifier" = "HF6K9XFF34.com.dripsdiary.app";
+    "get-task-allow" = 1;
+}', teamID='HF6K9XFF34', identifier='com.dripsdiary.app', executablePath='<DVTFilePath:0x7fb0bc546860:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Moment'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "HF6K9XFF34.com.dripsdiary.app";
+    "aps-environment" = development;
+    "com.apple.developer.default-data-protection" = NSFileProtectionComplete;
+    "com.apple.developer.icloud-container-environment" = Production;
+    "com.apple.developer.icloud-container-identifiers" =     (
+        "iCloud.com.dripsdiary.app"
+    );
+    "com.apple.developer.icloud-services" =     (
+        CloudKit
+    );
+    "com.apple.developer.team-identifier" = HF6K9XFF34;
+    "com.apple.developer.ubiquity-kvstore-identifier" = "HF6K9XFF34.com.dripsdiary.app";
+    "get-task-allow" = 1;
+}
+2020-08-11 13:22:38 +0000  Writing entitlements for <IDEDistributionItem: 0x7fb0825ade00; bundleID='com.dripsdiary.app', path='<DVTFilePath:0x7fb0cf169130:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb0825ab860; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb08255eee0; name='Apple Development: septfoil@hotmail.com (9C3U6Y2DC4)', hash='032EC9BAAF2220A778626C3C45D9094D74E28F49', serialNumber='75A6656DE1B3FC9D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 11:17:17 +0000''>', entitlements='{
+    "application-identifier" = "HF6K9XFF34.com.dripsdiary.app";
+    "aps-environment" = development;
+    "com.apple.developer.default-data-protection" = NSFileProtectionComplete;
+    "com.apple.developer.icloud-container-identifiers" =     (
+        "iCloud.com.dripsdiary.app"
+    );
+    "com.apple.developer.icloud-services" =     (
+        CloudKit
+    );
+    "com.apple.developer.team-identifier" = HF6K9XFF34;
+    "com.apple.developer.ubiquity-kvstore-identifier" = "HF6K9XFF34.com.dripsdiary.app";
+    "get-task-allow" = 1;
+}', teamID='HF6K9XFF34', identifier='com.dripsdiary.app', executablePath='<DVTFilePath:0x7fb0bc546860:'/Users/yefei/Library/Developer/Xcode/Archives/2020-08-11/Diary002 2020-8-11, 8.35 PM.xcarchive/Products/Applications/Moment.app/Moment'>', hardenedRuntime='0'>'> to: /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~WABvtO
+2020-08-11 13:22:38 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '032EC9BAAF2220A778626C3C45D9094D74E28F49' '--entitlements' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/entitlements~~~WABvtO' '--preserve-metadata=identifier,flags,runtime' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app'
+2020-08-11 13:22:39 +0000  /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root/Payload/Moment.app: signed app bundle with Mach-O thin (arm64) [com.dripsdiary.app]
+2020-08-11 13:22:39 +0000  /usr/bin/codesign exited with 0
+2020-08-11 13:22:39 +0000  Processing step: IDEDistributionZipODRItemStep
+2020-08-11 13:22:39 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-08-11 13:22:39 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-08-11 13:22:39 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-08-11 13:22:39 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-08-11 13:22:39 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-08-11 13:22:39 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-08-11 13:22:39 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-08-11 13:22:39 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-08-11 13:22:39 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-08-11 13:22:39 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-08-11 13:22:39 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-08-11 13:22:39 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-08-11 13:22:39 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-08-11 13:22:39 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-08-11 13:22:39 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-08-11 13:22:39 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-08-11 13:22:39 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-08-11 13:22:39 +0000  Processing step: IDEDistributionCreateIPAStep
+2020-08-11 13:22:39 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root' '/var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Packages/Diary002.ipa'
+2020-08-11 13:22:39 +0000  >>> Copying /var/folders/yw/4bfsj0_x6bbdr0jqhsc7sm540000gn/T/XcodeDistPipeline.~~~XVoeE5/Root 
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/RobotoSlab-Medium.ttf ... 
+2020-08-11 13:22:39 +0000  173364 bytes for ./Payload/Moment.app/RobotoSlab-Medium.ttf
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/_CodeSignature/CodeResources ... 
+2020-08-11 13:22:39 +0000  42201 bytes for ./Payload/Moment.app/_CodeSignature/CodeResources
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/OverviewDetailWeekExpandView.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  7124 bytes for ./Payload/Moment.app/OverviewDetailWeekExpandView.nib/objects-13.0+.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/OverviewDetailWeekExpandView.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  7894 bytes for ./Payload/Moment.app/OverviewDetailWeekExpandView.nib/runtime.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/TimelineEmptyCell.nib ... 
+2020-08-11 13:22:39 +0000  3662 bytes for ./Payload/Moment.app/TimelineEmptyCell.nib
+copying file ./Payload/Moment.app/zh-Hans.lproj/LaunchScreen.strings ... 
+2020-08-11 13:22:39 +0000  1 bytes for ./Payload/Moment.app/zh-Hans.lproj/LaunchScreen.strings
+copying file ./Payload/Moment.app/zh-Hans.lproj/Main.strings ... 
+2020-08-11 13:22:39 +0000  250 bytes for ./Payload/Moment.app/zh-Hans.lproj/Main.strings
+copying file ./Payload/Moment.app/zh-Hans.lproj/Localizable.strings ... 
+2020-08-11 13:22:39 +0000  10431 bytes for ./Payload/Moment.app/zh-Hans.lproj/Localizable.strings
+copying file ./Payload/Moment.app/zh-Hans.lproj/InfoPlist.strings ... 
+2020-08-11 13:22:39 +0000  127 bytes for ./Payload/Moment.app/zh-Hans.lproj/InfoPlist.strings
+copying file ./Payload/Moment.app/PTMono-Bold.ttf ... 
+2020-08-11 13:22:39 +0000  76828 bytes for ./Payload/Moment.app/PTMono-Bold.ttf
+copying file ./Payload/Moment.app/RecordPreviewViewController.nib ... 
+2020-08-11 13:22:39 +0000  3148 bytes for ./Payload/Moment.app/RecordPreviewViewController.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/en.lproj/Localizable.strings ... 
+2020-08-11 13:22:39 +0000  2078 bytes for ./Payload/Moment.app/en.lproj/Localizable.strings
+copying file ./Payload/Moment.app/en.lproj/InfoPlist.strings ... 
+135 bytes for ./Payload/Moment.app/en.lproj/InfoPlist.strings
+copying file ./Payload/Moment.app/en.lproj/MerchantKitResourcesLocalizedPeriodUnits.stringsdict ... 
+2020-08-11 13:22:39 +0000  466 bytes for ./Payload/Moment.app/en.lproj/MerchantKitResourcesLocalizedPeriodUnits.stringsdict
+copying file ./Payload/Moment.app/en.lproj/MerchantKitResourcesLocalizedSubscriptionPricePhrases.stringsdict ... 
+2020-08-11 13:22:39 +0000  1519 bytes for ./Payload/Moment.app/en.lproj/MerchantKitResourcesLocalizedSubscriptionPricePhrases.stringsdict
+copying file ./Payload/Moment.app/RecordTypeCollectionViewCell.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  3518 bytes for ./Payload/Moment.app/RecordTypeCollectionViewCell.nib/runtime.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/RecordTypeCollectionViewCell.nib/objects-12.3+.nib ... 
+2020-08-11 13:22:39 +0000  3721 bytes for ./Payload/Moment.app/RecordTypeCollectionViewCell.nib/objects-12.3+.nib
+copying file ./Payload/Moment.app/Montserrat-Medium.ttf ... 
+2020-08-11 13:22:39 +0000  260236 bytes for ./Payload/Moment.app/Montserrat-Medium.ttf
+copying file ./Payload/Moment.app/SettingsOpenSourceListViewController.nib ... 
+2020-08-11 13:22:39 +0000  2755 bytes for ./Payload/Moment.app/SettingsOpenSourceListViewController.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/RobotoSlab-SemiBold.ttf ... 
+2020-08-11 13:22:39 +0000  173532 bytes for ./Payload/Moment.app/RobotoSlab-SemiBold.ttf
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/NoteFormView.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  4940 bytes for ./Payload/Moment.app/NoteFormView.nib/objects-13.0+.nib
+copying file ./Payload/Moment.app/NoteFormView.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  4930 bytes for ./Payload/Moment.app/NoteFormView.nib/runtime.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/OverviewDetailYearlyView.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  9359 bytes for ./Payload/Moment.app/OverviewDetailYearlyView.nib/objects-13.0+.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/OverviewDetailYearlyView.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  10423 bytes for ./Payload/Moment.app/OverviewDetailYearlyView.nib/runtime.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/OverviewController.nib ... 
+2020-08-11 13:22:39 +0000  2997 bytes for ./Payload/Moment.app/OverviewController.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/DateFormView.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  3980 bytes for ./Payload/Moment.app/DateFormView.nib/objects-13.0+.nib
+copying file ./Payload/Moment.app/DateFormView.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  4590 bytes for ./Payload/Moment.app/DateFormView.nib/runtime.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/DurationFormView.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  4410 bytes for ./Payload/Moment.app/DurationFormView.nib/objects-13.0+.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/DurationFormView.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  4842 bytes for ./Payload/Moment.app/DurationFormView.nib/runtime.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Moment ... 
+2020-08-11 13:22:39 +0000  3569136 bytes for ./Payload/Moment.app/Moment
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Diary002.momd/VersionInfo.plist ... 
+144 bytes for ./Payload/Moment.app/Diary002.momd/VersionInfo.plist
+copying file ./Payload/Moment.app/Diary002.momd/Diary002.mom ... 
+1791 bytes for ./Payload/Moment.app/Diary002.momd/Diary002.mom
+copying file ./Payload/Moment.app/CollectionFormView.nib/objects-13.0+.nib ... 
+4130 bytes for ./Payload/Moment.app/CollectionFormView.nib/objects-13.0+.nib
+copying file ./Payload/Moment.app/CollectionFormView.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  4292 bytes for ./Payload/Moment.app/CollectionFormView.nib/runtime.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/PTMono-Regular.ttf ... 
+2020-08-11 13:22:39 +0000  169036 bytes for ./Payload/Moment.app/PTMono-Regular.ttf
+copying file ./Payload/Moment.app/DripsOpenScorceContentView.nib ... 
+2020-08-11 13:22:39 +0000  3932 bytes for ./Payload/Moment.app/DripsOpenScorceContentView.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/TitleFormView.nib ... 
+2020-08-11 13:22:39 +0000  3280 bytes for ./Payload/Moment.app/TitleFormView.nib
+copying file ./Payload/Moment.app/AppIcon60x60@2x.png ... 
+2020-08-11 13:22:39 +0000  5904 bytes for ./Payload/Moment.app/AppIcon60x60@2x.png
+copying file ./Payload/Moment.app/RPWeekDataView.nib ... 
+2020-08-11 13:22:39 +0000  4091 bytes for ./Payload/Moment.app/RPWeekDataView.nib
+copying file ./Payload/Moment.app/TimelineTodayHeaderView.nib ... 
+2020-08-11 13:22:39 +0000  3302 bytes for ./Payload/Moment.app/TimelineTodayHeaderView.nib
+copying file ./Payload/Moment.app/Montserrat-Light.ttf ... 
+2020-08-11 13:22:39 +0000  259416 bytes for ./Payload/Moment.app/Montserrat-Light.ttf
+copying file ./Payload/Moment.app/OverviewDetailMonthRankView.nib ... 
+2020-08-11 13:22:39 +0000  3996 bytes for ./Payload/Moment.app/OverviewDetailMonthRankView.nib
+copying file ./Payload/Moment.app/RPTitleView.nib ... 
+2020-08-11 13:22:39 +0000  3239 bytes for ./Payload/Moment.app/RPTitleView.nib
+copying file ./Payload/Moment.app/SettingsOpenSourceViewController.nib ... 
+2020-08-11 13:22:39 +0000  2385 bytes for ./Payload/Moment.app/SettingsOpenSourceViewController.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/SettingsSelectionView.nib ... 
+2020-08-11 13:22:39 +0000  4750 bytes for ./Payload/Moment.app/SettingsSelectionView.nib
+copying file ./Payload/Moment.app/RPNoteView.nib ... 
+2020-08-11 13:22:39 +0000  3460 bytes for ./Payload/Moment.app/RPNoteView.nib
+copying file ./Payload/Moment.app/UpgradeFeaturesView.nib ... 
+2020-08-11 13:22:39 +0000  4433 bytes for ./Payload/Moment.app/UpgradeFeaturesView.nib
+copying file ./Payload/Moment.app/Rubik-Light.ttf ... 
+2020-08-11 13:22:39 +0000  136816 bytes for ./Payload/Moment.app/Rubik-Light.ttf
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/SettingsSimpleView.nib ... 
+2020-08-11 13:22:39 +0000  5136 bytes for ./Payload/Moment.app/SettingsSimpleView.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/OverviewDetailWeekView.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  7172 bytes for ./Payload/Moment.app/OverviewDetailWeekView.nib/objects-13.0+.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/OverviewDetailWeekView.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  7960 bytes for ./Payload/Moment.app/OverviewDetailWeekView.nib/runtime.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/LoadingViewController.nib ... 
+2020-08-11 13:22:39 +0000  3698 bytes for ./Payload/Moment.app/LoadingViewController.nib
+copying file ./Payload/Moment.app/SettingsFooterView.nib ... 
+2020-08-11 13:22:39 +0000  3023 bytes for ./Payload/Moment.app/SettingsFooterView.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Rubik-Medium.ttf ... 
+2020-08-11 13:22:39 +0000  143696 bytes for ./Payload/Moment.app/Rubik-Medium.ttf
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/CommonSelectViewController.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  1071 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/CommonSelectViewController.nib/objects-13.0+.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/CommonSelectViewController.nib/runtime.nib ... 
+1071 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/CommonSelectViewController.nib/runtime.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/4tI-m4-KFa-view-nhH-8b-8bE.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  3323 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/4tI-m4-KFa-view-nhH-8b-8bE.nib/objects-13.0+.nib
+copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/4tI-m4-KFa-view-nhH-8b-8bE.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  3320 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/4tI-m4-KFa-view-nhH-8b-8bE.nib/runtime.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/Dsa-MC-9cT-view-2ta-hB-vlk.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  4518 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/Dsa-MC-9cT-view-2ta-hB-vlk.nib/objects-13.0+.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/Dsa-MC-9cT-view-2ta-hB-vlk.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  4525 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/Dsa-MC-9cT-view-2ta-hB-vlk.nib/runtime.nib
+copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/b5t-ot-dfq-view-dgf-fn-vha.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  3383 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/b5t-ot-dfq-view-dgf-fn-vha.nib/objects-13.0+.nib
+copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/b5t-ot-dfq-view-dgf-fn-vha.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  3382 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/b5t-ot-dfq-view-dgf-fn-vha.nib/runtime.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/0w7-Zc-hvc-view-4GO-IH-2zF.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  3064 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/0w7-Zc-hvc-view-4GO-IH-2zF.nib/objects-13.0+.nib
+copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/0w7-Zc-hvc-view-4GO-IH-2zF.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  3065 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/0w7-Zc-hvc-view-4GO-IH-2zF.nib/runtime.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/SelectRecordCategoryViewController.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  1393 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/SelectRecordCategoryViewController.nib/objects-13.0+.nib
+copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/SelectRecordCategoryViewController.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  1393 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/SelectRecordCategoryViewController.nib/runtime.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/oOK-KI-gFj-view-V8a-JH-OTa.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  3283 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/oOK-KI-gFj-view-V8a-JH-OTa.nib/objects-13.0+.nib
+copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/oOK-KI-gFj-view-V8a-JH-OTa.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  3277 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/oOK-KI-gFj-view-V8a-JH-OTa.nib/runtime.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/SelectDurationViewController.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  1075 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/SelectDurationViewController.nib/objects-13.0+.nib
+copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/SelectDurationViewController.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  1075 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/SelectDurationViewController.nib/runtime.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/SelectDateViewController.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  1067 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/SelectDateViewController.nib/objects-13.0+.nib
+copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/SelectDateViewController.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  1067 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/SelectDateViewController.nib/runtime.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/UITabBarController-Tog-KO-Txz.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  1764 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/UITabBarController-Tog-KO-Txz.nib/objects-13.0+.nib
+copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/UITabBarController-Tog-KO-Txz.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  1764 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/UITabBarController-Tog-KO-Txz.nib/runtime.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/RecordDetailViewController.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  1435 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/RecordDetailViewController.nib/objects-13.0+.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/RecordDetailViewController.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  1435 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/RecordDetailViewController.nib/runtime.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/RecordNavigationController.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  2055 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/RecordNavigationController.nib/objects-13.0+.nib
+copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/RecordNavigationController.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  2055 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/RecordNavigationController.nib/runtime.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2020-08-11 13:22:39 +0000  673 bytes for ./Payload/Moment.app/Base.lproj/Main.storyboardc/Info.plist
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  2720 bytes for ./Payload/Moment.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  3151 bytes for ./Payload/Moment.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  896 bytes for ./Payload/Moment.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  896 bytes for ./Payload/Moment.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib
+copying file ./Payload/Moment.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2020-08-11 13:22:39 +0000  258 bytes for ./Payload/Moment.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/Moment.app/RobotoSlab-Bold.ttf ... 
+2020-08-11 13:22:39 +0000  173396 bytes for ./Payload/Moment.app/RobotoSlab-Bold.ttf
+copying file ./Payload/Moment.app/SettingsProCell.nib ... 
+2020-08-11 13:22:39 +0000  4264 bytes for ./Payload/Moment.app/SettingsProCell.nib
+copying file ./Payload/Moment.app/OverviewHeaderView.nib ... 
+2020-08-11 13:22:39 +0000  4573 bytes for ./Payload/Moment.app/OverviewHeaderView.nib
+copying file ./Payload/Moment.app/OverviewDetailTitleView.nib ... 
+2020-08-11 13:22:39 +0000  2711 bytes for ./Payload/Moment.app/OverviewDetailTitleView.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/RecordTimelineTableViewCell.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  5629 bytes for ./Payload/Moment.app/RecordTimelineTableViewCell.nib/objects-13.0+.nib
+copying file ./Payload/Moment.app/RecordTimelineTableViewCell.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  6065 bytes for ./Payload/Moment.app/RecordTimelineTableViewCell.nib/runtime.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/SettingsNotificationViewController.nib ... 
+2753 bytes for ./Payload/Moment.app/SettingsNotificationViewController.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/UpgradeNormalPriceView.nib ... 
+2020-08-11 13:22:39 +0000  5098 bytes for ./Payload/Moment.app/UpgradeNormalPriceView.nib
+copying file ./Payload/Moment.app/TimelineHeaderView.nib ... 
+2020-08-11 13:22:39 +0000  3450 bytes for ./Payload/Moment.app/TimelineHeaderView.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Assets.car ... 
+2020-08-11 13:22:39 +0000  7950248 bytes for ./Payload/Moment.app/Assets.car
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/UpgradeViewController.nib ... 
+2020-08-11 13:22:39 +0000  9264 bytes for ./Payload/Moment.app/UpgradeViewController.nib
+copying file ./Payload/Moment.app/SelectRecordFooterView.nib ... 
+2020-08-11 13:22:39 +0000  2491 bytes for ./Payload/Moment.app/SelectRecordFooterView.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Montserrat-SemiBold.ttf ... 
+2020-08-11 13:22:39 +0000  260936 bytes for ./Payload/Moment.app/Montserrat-SemiBold.ttf
+copying file ./Payload/Moment.app/PermissionConfiguration.xcconfig ... 
+2020-08-11 13:22:39 +0000  2470 bytes for ./Payload/Moment.app/PermissionConfiguration.xcconfig
+copying file ./Payload/Moment.app/AppIcon76x76@2x~ipad.png ... 
+2020-08-11 13:22:39 +0000  7817 bytes for ./Payload/Moment.app/AppIcon76x76@2x~ipad.png
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/SettingsHeaderView.nib ... 
+2020-08-11 13:22:39 +0000  2701 bytes for ./Payload/Moment.app/SettingsHeaderView.nib
+copying file ./Payload/Moment.app/RobotoSlab-Light.ttf ... 
+2020-08-11 13:22:39 +0000  173080 bytes for ./Payload/Moment.app/RobotoSlab-Light.ttf
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/RPDataIconView.nib ... 
+2020-08-11 13:22:39 +0000  4700 bytes for ./Payload/Moment.app/RPDataIconView.nib
+copying file ./Payload/Moment.app/SettingsSectionInfoFooterView.nib ... 
+2020-08-11 13:22:39 +0000  2875 bytes for ./Payload/Moment.app/SettingsSectionInfoFooterView.nib
+copying file ./Payload/Moment.app/CurrencyFormView.nib ... 
+2020-08-11 13:22:39 +0000  3819 bytes for ./Payload/Moment.app/CurrencyFormView.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/SettingsTimelineStyleViewController.nib ... 
+2020-08-11 13:22:39 +0000  2758 bytes for ./Payload/Moment.app/SettingsTimelineStyleViewController.nib
+copying file ./Payload/Moment.app/RecordCategoryCell.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:39 +0000  4909 bytes for ./Payload/Moment.app/RecordCategoryCell.nib/objects-13.0+.nib
+copying file ./Payload/Moment.app/RecordCategoryCell.nib/runtime.nib ... 
+2020-08-11 13:22:39 +0000  5323 bytes for ./Payload/Moment.app/RecordCategoryCell.nib/runtime.nib
+copying file ./Payload/Moment.app/RecordCategoryCell.nib/objects-12.3+.nib ... 
+2020-08-11 13:22:39 +0000  5532 bytes for ./Payload/Moment.app/RecordCategoryCell.nib/objects-12.3+.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/SettingsWeekStartViewController.nib ... 
+2020-08-11 13:22:39 +0000  2795 bytes for ./Payload/Moment.app/SettingsWeekStartViewController.nib
+copying file ./Payload/Moment.app/Welcome.storyboardc/hja-Qn-e0k-view-BnS-cJ-WhI.nib ... 
+2020-08-11 13:22:39 +0000  4584 bytes for ./Payload/Moment.app/Welcome.storyboardc/hja-Qn-e0k-view-BnS-cJ-WhI.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Welcome.storyboardc/hxn-c2-Fx9-view-bg2-Vb-UJr.nib ... 
+2020-08-11 13:22:39 +0000  9058 bytes for ./Payload/Moment.app/Welcome.storyboardc/hxn-c2-Fx9-view-bg2-Vb-UJr.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Welcome.storyboardc/WelcomeTableViewController.nib ... 
+1046 bytes for ./Payload/Moment.app/Welcome.storyboardc/WelcomeTableViewController.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Welcome.storyboardc/WelcomeViewController.nib ... 
+1319 bytes for ./Payload/Moment.app/Welcome.storyboardc/WelcomeViewController.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Welcome.storyboardc/Info.plist ... 
+229 bytes for ./Payload/Moment.app/Welcome.storyboardc/Info.plist
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/SettingsToggleView.nib ... 
+2020-08-11 13:22:39 +0000  4567 bytes for ./Payload/Moment.app/SettingsToggleView.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/SettingsCloudSyncViewController.nib ... 
+2020-08-11 13:22:39 +0000  2757 bytes for ./Payload/Moment.app/SettingsCloudSyncViewController.nib
+copying file ./Payload/Moment.app/Montserrat-Regular.ttf ... 
+2020-08-11 13:22:39 +0000  263192 bytes for ./Payload/Moment.app/Montserrat-Regular.ttf
+copying file ./Payload/Moment.app/TimelineViewController.nib ... 
+2020-08-11 13:22:39 +0000  7090 bytes for ./Payload/Moment.app/TimelineViewController.nib
+copying file ./Payload/Moment.app/OverviewDetailController.nib ... 
+2020-08-11 13:22:39 +0000  3086 bytes for ./Payload/Moment.app/OverviewDetailController.nib
+copying file ./Payload/Moment.app/RPDateView.nib ... 
+2020-08-11 13:22:39 +0000  3672 bytes for ./Payload/Moment.app/RPDateView.nib
+copying file ./Payload/Moment.app/RPActionView.nib ... 
+2020-08-11 13:22:39 +0000  4197 bytes for ./Payload/Moment.app/RPActionView.nib
+copying file ./Payload/Moment.app/SettingsUpgradeCell.nib ... 
+2020-08-11 13:22:39 +0000  5048 bytes for ./Payload/Moment.app/SettingsUpgradeCell.nib
+2020-08-11 13:22:39 +0000  copying file ./Payload/Moment.app/Frameworks/libswiftCoreImage.dylib ... 
+2020-08-11 13:22:39 +0000  253648 bytes for ./Payload/Moment.app/Frameworks/libswiftCoreImage.dylib
+copying file ./Payload/Moment.app/Frameworks/libswiftObjectiveC.dylib ... 
+2020-08-11 13:22:39 +0000  302640 bytes for ./Payload/Moment.app/Frameworks/libswiftObjectiveC.dylib
+copying file ./Payload/Moment.app/Frameworks/libswiftCore.dylib ... 
+2020-08-11 13:22:40 +0000  16915040 bytes for ./Payload/Moment.app/Frameworks/libswiftCore.dylib
+2020-08-11 13:22:40 +0000  copying file ./Payload/Moment.app/Frameworks/libswiftCoreGraphics.dylib ... 
+2020-08-11 13:22:40 +0000  646848 bytes for ./Payload/Moment.app/Frameworks/libswiftCoreGraphics.dylib
+copying file ./Payload/Moment.app/Frameworks/libswiftUIKit.dylib ... 
+2020-08-11 13:22:40 +0000  477168 bytes for ./Payload/Moment.app/Frameworks/libswiftUIKit.dylib
+2020-08-11 13:22:40 +0000  copying file ./Payload/Moment.app/Frameworks/libswiftMetal.dylib ... 
+2020-08-11 13:22:40 +0000  298112 bytes for ./Payload/Moment.app/Frameworks/libswiftMetal.dylib
+2020-08-11 13:22:40 +0000  copying file ./Payload/Moment.app/Frameworks/libswiftCoreData.dylib ... 
+2020-08-11 13:22:40 +0000  354944 bytes for ./Payload/Moment.app/Frameworks/libswiftCoreData.dylib
+copying file ./Payload/Moment.app/Frameworks/libswiftDispatch.dylib ... 
+2020-08-11 13:22:40 +0000  1018912 bytes for ./Payload/Moment.app/Frameworks/libswiftDispatch.dylib
+2020-08-11 13:22:40 +0000  copying file ./Payload/Moment.app/Frameworks/libswiftos.dylib ... 
+2020-08-11 13:22:40 +0000  299424 bytes for ./Payload/Moment.app/Frameworks/libswiftos.dylib
+2020-08-11 13:22:40 +0000  copying file ./Payload/Moment.app/Frameworks/libswiftCoreFoundation.dylib ... 
+2020-08-11 13:22:40 +0000  253792 bytes for ./Payload/Moment.app/Frameworks/libswiftCoreFoundation.dylib
+copying file ./Payload/Moment.app/Frameworks/libswiftCloudKit.dylib ... 
+2020-08-11 13:22:40 +0000  625520 bytes for ./Payload/Moment.app/Frameworks/libswiftCloudKit.dylib
+copying file ./Payload/Moment.app/Frameworks/libswiftDarwin.dylib ... 
+2020-08-11 13:22:40 +0000  369728 bytes for ./Payload/Moment.app/Frameworks/libswiftDarwin.dylib
+copying file ./Payload/Moment.app/Frameworks/libswiftContacts.dylib ... 
+2020-08-11 13:22:40 +0000  300288 bytes for ./Payload/Moment.app/Frameworks/libswiftContacts.dylib
+2020-08-11 13:22:40 +0000  copying file ./Payload/Moment.app/Frameworks/libswiftQuartzCore.dylib ... 
+2020-08-11 13:22:40 +0000  256864 bytes for ./Payload/Moment.app/Frameworks/libswiftQuartzCore.dylib
+2020-08-11 13:22:40 +0000  copying file ./Payload/Moment.app/Frameworks/libswiftFoundation.dylib ... 
+2020-08-11 13:22:40 +0000  8479552 bytes for ./Payload/Moment.app/Frameworks/libswiftFoundation.dylib
+2020-08-11 13:22:40 +0000  copying file ./Payload/Moment.app/Frameworks/libswiftCoreLocation.dylib ... 
+2020-08-11 13:22:40 +0000  304128 bytes for ./Payload/Moment.app/Frameworks/libswiftCoreLocation.dylib
+2020-08-11 13:22:40 +0000  copying file ./Payload/Moment.app/OverviewWeekCell.nib ... 
+2020-08-11 13:22:40 +0000  5277 bytes for ./Payload/Moment.app/OverviewWeekCell.nib
+copying file ./Payload/Moment.app/Rubik-Regular.ttf ... 
+2020-08-11 13:22:40 +0000  140732 bytes for ./Payload/Moment.app/Rubik-Regular.ttf
+2020-08-11 13:22:40 +0000  copying file ./Payload/Moment.app/embedded.mobileprovision ... 
+2020-08-11 13:22:40 +0000  10465 bytes for ./Payload/Moment.app/embedded.mobileprovision
+copying file ./Payload/Moment.app/UpgradeHighlightPriceView.nib ... 
+2020-08-11 13:22:40 +0000  6870 bytes for ./Payload/Moment.app/UpgradeHighlightPriceView.nib
+copying file ./Payload/Moment.app/BiometryLockViewController.nib ... 
+2020-08-11 13:22:40 +0000  4253 bytes for ./Payload/Moment.app/BiometryLockViewController.nib
+2020-08-11 13:22:40 +0000  copying file ./Payload/Moment.app/SettingsSectionHeaderView.nib ... 
+2020-08-11 13:22:40 +0000  2872 bytes for ./Payload/Moment.app/SettingsSectionHeaderView.nib
+copying file ./Payload/Moment.app/SettingsViewController.nib ... 
+2020-08-11 13:22:40 +0000  2821 bytes for ./Payload/Moment.app/SettingsViewController.nib
+copying file ./Payload/Moment.app/Info.plist ... 
+2020-08-11 13:22:40 +0000  2311 bytes for ./Payload/Moment.app/Info.plist
+copying file ./Payload/Moment.app/WaterFormView.nib/objects-13.0+.nib ... 
+2020-08-11 13:22:40 +0000  4407 bytes for ./Payload/Moment.app/WaterFormView.nib/objects-13.0+.nib
+2020-08-11 13:22:40 +0000  copying file ./Payload/Moment.app/WaterFormView.nib/runtime.nib ... 
+2020-08-11 13:22:40 +0000  4844 bytes for ./Payload/Moment.app/WaterFormView.nib/runtime.nib
+copying file ./Payload/Moment.app/OverviewDetailMonthView.nib ... 
+2020-08-11 13:22:40 +0000  6867 bytes for ./Payload/Moment.app/OverviewDetailMonthView.nib
+2020-08-11 13:22:40 +0000  copying file ./Payload/Moment.app/OverviewMonthCell.nib ... 
+2020-08-11 13:22:40 +0000  5290 bytes for ./Payload/Moment.app/OverviewMonthCell.nib
+copying file ./Payload/Moment.app/SettingsIDLockViewController.nib ... 
+2020-08-11 13:22:40 +0000  2820 bytes for ./Payload/Moment.app/SettingsIDLockViewController.nib
+2020-08-11 13:22:40 +0000  copying file ./Payload/Moment.app/PkgInfo ... 
+8 bytes for ./Payload/Moment.app/PkgInfo
+copying file ./Payload/Moment.app/RobotoSlab-Regular.ttf ... 
+2020-08-11 13:22:40 +0000  172684 bytes for ./Payload/Moment.app/RobotoSlab-Regular.ttf
+copying file ./Payload/Moment.app/WelcomeFeatureCell.nib ... 
+2020-08-11 13:22:40 +0000  5644 bytes for ./Payload/Moment.app/WelcomeFeatureCell.nib
+2020-08-11 13:22:40 +0000  /usr/bin/ditto exited with 0
+2020-08-11 13:22:40 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2020-08-11 13:22:40 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2020-08-11 13:22:40 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2020-08-11 13:22:40 +0000  Processing step: IDEDistributionCreateManifestStep

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diary002.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>032EC9BAAF2220A778626C3C45D9094D74E28F49</string>
+				<key>dateExpires</key>
+				<string>2021/3/13</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>HF6K9XFF34.com.dripsdiary.app</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.default-data-protection</key>
+				<string>NSFileProtectionComplete</string>
+				<key>com.apple.developer.icloud-container-environment</key>
+				<string>Production</string>
+				<key>com.apple.developer.icloud-container-identifiers</key>
+				<array>
+					<string>iCloud.com.dripsdiary.app</string>
+				</array>
+				<key>com.apple.developer.icloud-services</key>
+				<array>
+					<string>CloudKit</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>HF6K9XFF34</string>
+				<key>com.apple.developer.ubiquity-kvstore-identifier</key>
+				<string>HF6K9XFF34.com.dripsdiary.app</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Moment.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>ececec2f-e56a-4280-a497-166177017425</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.dripsdiary.app</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>HF6K9XFF34</string>
+				<key>name</key>
+				<string>Fei Ye (Individual)</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
